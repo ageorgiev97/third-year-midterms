@@ -1,0 +1,11 @@
+<patinets>
+    <patient>
+        <firt-name>Ivan</firt-name>
+        <second-name>Petrov</second-name>
+    </patient>
+
+    <patient>
+        <firt-name>Stoyan</firt-name>
+        <second-name>Ivanov</second-name>
+    </patient>
+</patinets>
